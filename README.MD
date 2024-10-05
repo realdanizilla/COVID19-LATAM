@@ -1,8 +1,13 @@
 # COVID-19 Vaccination Analysis: A Case Study on Latin America
 
+View the full interactive dashboard of the COVID-19 Vaccination Analysis for Latin America on Tableau using the link below:
+## [Interactive Dashboard](https://public.tableau.com/app/profile/daniel.ribeiro5601/viz/COVID19AnalysisLatinAmerica/Dashboard?publish=yes)
+
+
 # Table of Contents
 
 - [COVID-19 Vaccination Analysis: A Case Study on Latin America](#covid-19-vaccination-analysis-a-case-study-on-latin-america)
+  - [Interactive Dashboard](#interactive-dashboard)
 - [Table of Contents](#table-of-contents)
   - [Project Objective](#project-objective)
   - [Project Structure and Steps](#project-structure-and-steps)
