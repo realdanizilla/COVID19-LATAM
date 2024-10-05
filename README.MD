@@ -1,24 +1,20 @@
 # COVID-19 Vaccination Analysis: A Case Study on Latin America
 
-View the full interactive dashboard of the COVID-19 Vaccination Analysis for Latin America on Tableau using the link below:
-## [Interactive Dashboard](https://public.tableau.com/app/profile/daniel.ribeiro5601/viz/COVID19AnalysisLatinAmerica/Dashboard?publish=yes)
+View the full interactive dashboard of the COVID-19 Vaccination Analysis for Latin America on Tableau using the link below:<br>
+[Interactive Dashboard](https://public.tableau.com/app/profile/daniel.ribeiro5601/viz/COVID19AnalysisLatinAmerica/Dashboard?publish=yes)
 
 
-# Table of Contents
+## Table of Contents
 
 - [COVID-19 Vaccination Analysis: A Case Study on Latin America](#covid-19-vaccination-analysis-a-case-study-on-latin-america)
-  - [Interactive Dashboard](#interactive-dashboard)
-- [Table of Contents](#table-of-contents)
+  - [Table of Contents](#table-of-contents)
   - [Project Objective](#project-objective)
   - [Project Structure and Steps](#project-structure-and-steps)
   - [Tools and Techniques Utilized](#tools-and-techniques-utilized)
   - [Specific Results and Outcomes](#specific-results-and-outcomes)
-    - [1. Analyzing COVID-19 Mortality Trends](#1-analyzing-covid-19-mortality-trends)
-    - [2. Impact of Vaccination on New COVID-19 Cases](#2-impact-of-vaccination-on-new-covid-19-cases)
-    - [3. Country-Specific Patterns](#3-country-specific-patterns)
-    - [4. Limitations and Additional Observations](#4-limitations-and-additional-observations)
   - [What I Have Learned From This Project](#what-i-have-learned-from-this-project)
   - [Final Thoughts](#final-thoughts)
+  - [How to use this repository](#how-to-use-this-repository)
 
 ## Project Objective
 
@@ -70,23 +66,23 @@ The project aims to analyze the efficiency of COVID-19 vaccination campaigns in 
 
 ## Specific Results and Outcomes
 
-### 1. Analyzing COVID-19 Mortality Trends
+**1. Analyzing COVID-19 Mortality Trends**
 - Created visualizations to track death rates before and after the start of vaccination campaigns.
 - **Results**:
   - A general downward trend in death rates over time, suggesting a potential reduction in COVID-related mortality with increasing vaccination rates.
   - Some countries, like Brazil, showed resilience despite challenges with lockdown policies.
 
-### 2. Impact of Vaccination on New COVID-19 Cases
+**2. Impact of Vaccination on New COVID-19 Cases**
 - Visualized the rate of new cases before and after vaccination campaigns began.
 - **Findings**:
   - Initially, an increase in new COVID-19 cases was observed as vaccination campaigns commenced.
   - Following a peak, there was a significant reduction in new cases, indicating the effectiveness of the vaccination campaigns in curbing the spread of the virus.
 
-### 3. Country-Specific Patterns
+**3. Country-Specific Patterns**
 - **Brazil**: Despite criticisms over relaxed lockdown measures, the country never exceeded a 7% mortality rate, demonstrating a significant effort to manage COVID-19's impact.
 - **Other Countries**: Each country displayed unique patterns influenced by local policies and behaviors.
 
-### 4. Limitations and Additional Observations
+**4. Limitations and Additional Observations**
 - While the dashboards show clear trends, the analysis was not fully conclusive about the direct impact of vaccines on mortality and case reduction.
 - Other factors like government policies, public health campaigns, and behavioral changes likely played a role in the observed trends.
 
@@ -109,5 +105,23 @@ To answer our initial questions:
 - **Do vaccines provide immunity against COVID-19?** The reduction in cases post-vaccination suggests increased resistance, but definitive conclusions require further exploration.
 
 As Plato once said, "The only thing I know is that I know nothing." Our analysis has not reached definitive conclusions, but it provides a strong foundation for understanding the impacts of COVID-19 vaccination campaigns across different countries. By visualizing and interpreting these data trends, we hope to contribute meaningfully to the ongoing discourse on vaccine efficiency.
+
+[back to top](#covid-19-vaccination-analysis-a-case-study-on-latin-america)
+
+## How to use this repository
+
+1. **Clone the repository** <br>
+[https://github.com/realdanizilla/COVID19-LATAM.git](https://github.com/realdanizilla/COVID19-LATAM.git)
+
+2. **Run the Jupyter Notebook**  
+- Execute the `.ipynb` notebook to see data preprocessing steps
+- Review SQL scripts used for data extraction and analysis from datasets on COVID-19 vaccination and cases.
+
+3. **View Tableau Visualizations**  
+Open the Tableau workbook (`.twb`) to see dashboards and visual insights on vaccination impact or access the [publick link](https://public.tableau.com/app/profile/daniel.ribeiro5601/viz/COVID19AnalysisLatinAmerica/Dashboard?publish=yes)
+
+4. **Run Your Analysis**  
+Use the provided data and scripts to replicate or further explore trends in COVID-19 vaccination efficiency.
+
 
 [back to top](#covid-19-vaccination-analysis-a-case-study-on-latin-america)
